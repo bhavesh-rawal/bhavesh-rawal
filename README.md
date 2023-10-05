@@ -47,5 +47,6 @@ I'm a passionate Front End Web Developer. My passion for software lies with drea
 
 <div align="center">
   <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=mrbhavu1432&show_icons=true" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrbhavu1432" alt="Mrbhavu1432" />
+<!--   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrbhavu1432" alt="Mrbhavu1432" /> -->
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mrbhavu1432&theme=dark&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=500" alt="GitHub Streak" /></a>
 </div>
