@@ -41,12 +41,12 @@ I'm a passionate Front End Web Developer. My passion for software lies with drea
     </a> 
     <a href="https://www.linkedin.com/in/bhavesh-rawal242862/" target="_open">
         <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a> 
-      <a href="https://www.instagram.com/mr.__bhavu__rwl/" target="_open">
-        <img alt="LinkedIn" src="https://img.shields.io/badge/instagram-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
+    </a>    
     <a href="mailto:bhaveshrawal2004@gmail.com" target="_open">
         <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+      <a href="https://www.instagram.com/mr.__bhavu__rwl/" target="_open">
+        <img alt="LinkedIn" src="https://img.shields.io/badge/instagram-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
 </p>
 <br />
