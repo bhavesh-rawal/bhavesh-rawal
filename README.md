@@ -50,23 +50,3 @@ I'm a passionate Front End Web Developer. My passion for software lies with drea
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mrbhavu1432&theme=dark&hide_border=true&border_radius=13.4&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
     
 </p>
-
-<h3>Get in touch with me</h3>
-<p>
-    <a href="https://github.com/mrbhavu1432" target="_open">
-        <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
-    </a> 
-    <a href="https://www.linkedin.com/in/bhavesh-rawal242862/" target="_open">
-        <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>    
-    <a href="mailto:bhaveshrawal2004@gmail.com" target="_open">
-        <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-      <a href="https://www.instagram.com/mr.__bhavu__rwl/" target="_open">
-        <img alt="LinkedIn" src="https://img.shields.io/badge/instagram-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-</p>
-<br />
-<a href="https://bhavesh-rawal-portfolio.netlify.app/">
-    Visit my website
-</a>
