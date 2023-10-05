@@ -43,10 +43,9 @@ I'm a passionate Front End Web Developer. My passion for software lies with drea
    <a href="https://www.instagram.com/mr.__bhavu__rwl/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/></a>
 </p>
 
-## 📊 My Github Stats
+## 📊 My GitHub Data:
 
-<br/>
-<p>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mrbhavu1432&theme=dark&hide_border=true&border_radius=13.4&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
-    
-</p>
+<div align="center">
+  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=mrbhavu1432&show_icons=true" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrbhavu1432&" alt="Mrbhavu1432" />
+</div>
