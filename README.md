@@ -26,9 +26,12 @@ I'm a passionate Front End Web Developer. My passion for software lies with drea
 
 <br/>
 <p>
-    <a href="https://github.com/harshmehta813/github-readme-streak-stats">
+<!--     <a href="https://github.com/harshmehta813/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Bhavesh Rawal's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mrbhavu1432&theme=tokyonight&hide_border=true&bg_color=0D1117 "/>
-    </a>
+    </a> -->
+
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mrbhavu1432&theme=dark&hide_border=true&border_radius=13.4&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+    
 </p>
 
 <h3>Get in touch with me</h3>
