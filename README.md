@@ -36,9 +36,9 @@ I'm a passionate Front End Web Developer. My passion for software lies with drea
 ## ❤️ Let's get connected:
 
 <p>
-    <a href="https://portfolio-bhavesh.vercel.app/" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Bhavesh.Rawal-9146FF.svg?&style=for-the-badge&logo=appveyor&logoColor=white" height="30px" /></a>
-     <a href="https://www.linkedin.com/in/bhavesh-rawal242862/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a> 
-   <a href="https://www.instagram.com/mr.__bhavu__rwl/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/></a>
+    <a href="https://portfolio-bhavesh.vercel.app/" target="blank"><img alt="Github" src="https://img.shields.io/badge/Bhavesh.Rawal-9146FF.svg?&style=for-the-badge&logo=appveyor&logoColor=white" height="30px" /></a>
+     <a href="https://www.linkedin.com/in/bhavesh-rawal242862/" target="blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a> 
+   <a href="https://www.instagram.com/mr.bhavu_rwl/" target="blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/></a>
 </p>
 
 ## 📊 My GitHub Data:
