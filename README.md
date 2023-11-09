@@ -44,6 +44,6 @@ I'm a passionate Front End Web Developer. My passion for software lies with drea
 ## 📊 My GitHub Data:
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=mrbhavu1432&show_icons=true" />
+  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=bhavesh-rawal&show_icons=true" />
 <!--    <img align="center" src="https://streak-stats.demolab.com?user=mrbhavu1432&theme=dark&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=450" alt="GitHub Streak" /> -->
 </div>
